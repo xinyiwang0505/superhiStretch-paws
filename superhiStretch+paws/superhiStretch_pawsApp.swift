@@ -4,6 +4,7 @@
 //
 //  Created by Cindy Wang on 6/2/22.
 //
+//this is the launching first screen of app
 
 import SwiftUI
 
